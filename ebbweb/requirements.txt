@@ -1,0 +1,2 @@
+concurrent.futures==3.3.0
+sqlite==99.999
